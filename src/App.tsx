@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCopyright, faLinesLeaning } from '@fortawesome/free-solid-svg-icons';
