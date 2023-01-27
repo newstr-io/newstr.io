@@ -17,7 +17,7 @@ function App() {
           <div className="medium sub">Coming April, 20th 2023</div>
         </div>
         <footer className="footer">
-          <div className="powered-by">Powered by <a href="https://nostr.com/">NOSTR</a></div>
+          <div className="powered-by">Powered by <a href="https://nostr.com/">NOSTR</a>.</div>
           <div className="small">
             <FontAwesomeIcon icon={faCopyright} size="xs" /> Copyright 13x, LLC 2023
           </div>
