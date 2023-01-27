@@ -12,7 +12,6 @@
   font-weight: 700;
   font-size: 65px;
   color: #FFC045;
-  margin-bottom: -10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -33,21 +32,21 @@
 }
 
 .app-splash header {
-  margin-top: auto;
+  margin-top: 30vh;
 }
 
 .app-splash footer {
-  margin-bottom: 10px;
+  margin-bottom: 5vh;
 }
 
 .app-splash footer .powered-by {
-  font-size: .6em;
+  font-size: 15px;
   margin-bottom: 5px;
 }
 
 .app-splash .content {
   margin: auto;
-  margin-top: 0px;
+  font-size: 22px;
 }
 
 .app-splash .content > div {
@@ -57,9 +56,6 @@
   font-style: italic;
   margin-top: 10px;
 }
-
-
-
 
 .medium {
   font-size: .8em;
