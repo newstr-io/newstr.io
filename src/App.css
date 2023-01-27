@@ -55,6 +55,10 @@
 .app-splash .content > div {
   margin-top: 4px;
 }
+.app-splash .content .sub {
+  font-style: italic;
+  margin-top: 10px;
+}
 
 
 

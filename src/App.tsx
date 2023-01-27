@@ -13,6 +13,7 @@ function App() {
         </header>
         <div className="content medium">
           <div>News, straight to you.</div>
+          <div className="medium sub">Coming April, 20th 2023</div>
         </div>
         <footer className="footer">
           <div className="powered-by">Powered by <a href="https://nostr.com/">NOSTR</a></div>
